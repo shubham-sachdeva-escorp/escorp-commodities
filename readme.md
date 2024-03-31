@@ -18,7 +18,7 @@
 
 ### About Me
 
-<p align="left">I'm Shubham Sachdeva, the founder and visionary behind Escorp Commodities LLC, a leading trading company based in Dubai, UAE. With a passion for innovation and a commitment to excellence, I've dedicated the past two decades to building Escorp into a trusted name in the global market.</p>
+<p align="left">I'm <a href="https://shubhamsachdeva.com/">Shubham Sachdeva</a>, the founder and visionary behind <a href="https://escorpcommodities.net/">Escorp Commodities LLC</a>, a leading trading company based in Dubai, UAE. With a passion for innovation and a commitment to excellence, I've dedicated the past two decades to building Escorp into a trusted name in the global market.</p>
 
 ### About Escorp Commodities LLC
 
